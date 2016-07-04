@@ -75,7 +75,6 @@ As a Psychologist I provided cognitive-behavioral therapy to the public who coul
 *HR Recruiter*  
 Filtering CV's and interviewing candidates for the required positions, as well as writing contracts based on the clients needs and monitoring the Social Security movements to assure the well-being of the workers.
 
-
 **Retail** (September 2009 to March 2016)  
 *Waiter*  
 *Host*  
