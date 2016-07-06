@@ -5,21 +5,29 @@ Recruiter, mediator, psychologist, indiscriminate gamer and junior developer wou
 
 I am very eager to learn new technologies, I believe a person should never stagnate in any aspect of their life. Each new language or framework could easily be the next big thing, and I wish to know that technology inside and out when that happens.
 
-## <a name="skills">How my colleagues describe me</a>
+## <a name="skills">Some virtues I've acquired</a>
 
 #### Curiosity
 
- Throughout my life I've discovered that the stuff I know is not only less than the stuff that I know I don't know, and much less than the the stuff that I don't know I don't know. However, knowing this puts me in a position of great hunger to acquire the proficiency I've yet to master.
+ In Makers, every week we were introduced to new technologies, and sometimes not knowing all the functionalities of a new program makes that one annoying bug impossible to solve. Having the curiosity to search and tweak around has helped me greatly in fixing the small daily problems that we encounter in our code.  
+
+ In my previous roles I've discovered that the stuff I know is not only less than the stuff that I know I don't know, and much less than the the stuff that I don't know I don't know. However, knowing this puts me in a position of great hunger to acquire the proficiencies I've yet to master, and thanks to Makers I got all the tools I needed to feed that hunger.
 
 #### Adaptability
+
+ As a Maker, we had to work with a different person every single day, and learning quickly your pair's code and their pace is essential to a good programming day. Being quick to adapt to a new person has made every day a good working experience.
 
  While working in banking, I had to go from office to office helping tally their numbers. Some offices received me warmly, others not so much, but they were all different and I had fun meeting so many people and helping them. And even though the experience wasn't always good, my reviews were.
 
 #### Perseverance
 
-No stone unturned when it comes to good work. When something is not clear, does not work properly, or could be built better, it means we can either learn more about it or make a superior version. When I worked as a mediator in a charity I dealt with people going through emotionally difficult situations, even though some of my colleagues dropped out, working in such high pressure environment taught me how keep going in challenging settings.
+Sometimes the answer is right around the corner, sometimes we need a rest to avoid tunnel vision. In Makers, I've been taught when to keep pushing for answers when I believe it is possible to achieve it, and to take a rest when smoke is coming out of our ears and we're reaching nowhere.
+
+In some of my previous roles I applied a "No stone unturned" policy when it came to good work. If something wasn't clear, didn't work properly, or could be built better, it meant we could either learn more about it or make a superior version. When I worked as a mediator in a charity I dealt with people going through emotionally difficult situations, even though some of my colleagues dropped out, working in such high pressure environment taught me how keep going in  a challenging setting.
 
 #### Understanding
+
+ Trying to convey your thought in an easy way to make your pair partner understand what you think of a problem is quite difficult. In Makers you have to learn how every other person in the team thinks to understand what they're trying to convey. 
 
  For several years I've helped a non government organization that aided people who needed therapy due to the massive impact the housing crisis had on them, but couldn't afford it or didn't had access to the public services. Hearing the experiences of so many people gives an understanding of the privileges one has and does not consider. Over the years that has developed into an acceptance of everyone's way of thinking and lifestyle, thus letting thoughts outside the box come into play.
 
@@ -28,7 +36,7 @@ No stone unturned when it comes to good work. When something is not clear, does 
 Project | Description | Technologies | Testing
 --- | --- | --- | ---
 [Regexpert](https://github.com/Vollcode/Regexperts) | A gamified learning solution to master Regular Expressions. | AngularJS, Ruby on Rails, NodeJS, Materialize | Jasmine, Karma, Protractor, Rspec
-[Wolves](https://github.com/Vollcode/Werewolves-practice) | A purely front-end app to help learn and play a board game called "The Wolves of Millers Hollow". | AngularJS, Materialize| Jasmine, Karma, Protractor
+[Werewolves](https://github.com/Vollcode/Werewolves-practice) | A purely front-end app to help learn and play a board game called "The Wolves of Millers Hollow". | AngularJS, Materialize| Jasmine, Karma, Protractor
 [Momentgram](https://github.com/Vollcode/instagram-challenge) | An instagram clone with several features added. | Ruby on Rails, JQuery, Bootstrap  |  RSpec, Capybara
 [MakersBnB](https://github.com/Vollcode/makers-bnb/tree/testingdatepicker) | A AirBnb clone webapp with a couple extra features implemented such as image upload | Sinatra, Jquery  | Rspec, Capybara
 
@@ -89,4 +97,4 @@ During many years I've worked a plethora of jobs that have given me the patience
 ## <a name="contact">I'd love to hear from you!</a>
 
 _[Email](mailto: daniel.ortiz.olivares@gmail.com)_ &nbsp;|&nbsp;
-_[LinkedIn](https://uk.linkedin.com/in/www.linkedin.com/in/danielortizolivares)_ &nbsp;|&nbsp;Phone: +34 609 172 498
+_[LinkedIn](https://uk.linkedin.com/in/www.linkedin.com/in/danielortizolivares)_ &nbsp;|&nbsp;:iphone: +34 609 172 498
