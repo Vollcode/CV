@@ -35,11 +35,11 @@ In some of my previous roles I applied a "No stone unturned" policy when it came
 
 Project | Description | Technologies | Testing
 --- | --- | --- | ---
-[Regexpert](https://github.com/Vollcode/Regexperts) | A gamified learning solution to master Regular Expressions. It features very clean  and decoupled code, with services for every behavior. | AngularJS, Ruby on Rails, NodeJS, Materialize | Jasmine, Karma, Protractor, Rspec
+[Regexpert](https://github.com/Vollcode/Regexperts) | A gamified learning solution to master Regular Expressions, it consists of a number of levels where you learn bit by bit Regexp concepts. The game features very clean and decoupled code, with services for every behavior. | AngularJS, Ruby on Rails, NodeJS, Materialize | Jasmine, Karma, Protractor, Rspec
 [Werewolves](https://github.com/Vollcode/Werewolves-practice) | A purely front-end app to help learn and play a board game called "The Wolves of Millers Hollow". | AngularJS, Materialize| Jasmine, Karma, Protractor
 [MakersBnB](https://github.com/Vollcode/makers-bnb/tree/testingdatepicker) | An AirBnb clone webapp that features signup, house postings with image upload and asynchronous date-picker.  | Sinatra, Jquery  | Rspec, Capybara
 
-## <a name="education">Life long Learning</a>
+## <a name="education">Just a bit of what I've learnt</a>
 
 #### Makers Academy (March 2016 - July 2016)
 
