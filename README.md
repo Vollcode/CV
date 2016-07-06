@@ -23,11 +23,11 @@ I am very eager to learn new technologies, I believe a person should never stagn
 
 Sometimes the answer is right around the corner, sometimes we need a rest to avoid tunnel vision. In Makers, I've been taught when to keep pushing for answers when I believe it is possible to achieve it, and to take a rest when smoke is coming out of our ears and we're reaching nowhere.
 
-In some of my previous roles I applied a "No stone unturned" policy when it came to good work. If something wasn't clear, didn't work properly, or could be built better, it meant we could either learn more about it or make a superior version. When I worked as a mediator in a charity I dealt with people going through emotionally difficult situations, even though some of my colleagues dropped out, working in such high pressure environment taught me how keep going in  a challenging setting.
+In some of my previous roles I applied a "No stone unturned" policy when it came to good work. If something wasn't clear, didn't work properly, or could be built better, it meant we could either learn more about it or make a superior version. When I worked as a mediator in a charity I dealt with people going through emotionally difficult situations, even though some of my colleagues dropped out, I managed to make sure the program finished on good terms and about 60% of the patients managed to get housing.
 
 #### Understanding
 
- Trying to convey your thought in an easy way to make your pair partner understand what you think of a problem is quite difficult. In Makers you have to learn how every other person in the team thinks to understand what they're trying to convey. 
+ Trying to convey your thought in an easy way to make your pair partner understand what you think of a problem is quite difficult. In Makers you have to learn how every other person in the team thinks to understand what they're trying to convey.
 
  For several years I've helped a non government organization that aided people who needed therapy due to the massive impact the housing crisis had on them, but couldn't afford it or didn't had access to the public services. Hearing the experiences of so many people gives an understanding of the privileges one has and does not consider. Over the years that has developed into an acceptance of everyone's way of thinking and lifestyle, thus letting thoughts outside the box come into play.
 
@@ -35,10 +35,9 @@ In some of my previous roles I applied a "No stone unturned" policy when it came
 
 Project | Description | Technologies | Testing
 --- | --- | --- | ---
-[Regexpert](https://github.com/Vollcode/Regexperts) | A gamified learning solution to master Regular Expressions. | AngularJS, Ruby on Rails, NodeJS, Materialize | Jasmine, Karma, Protractor, Rspec
+[Regexpert](https://github.com/Vollcode/Regexperts) | A gamified learning solution to master Regular Expressions. It features very clean  and decoupled code, with services for every behavior. | AngularJS, Ruby on Rails, NodeJS, Materialize | Jasmine, Karma, Protractor, Rspec
 [Werewolves](https://github.com/Vollcode/Werewolves-practice) | A purely front-end app to help learn and play a board game called "The Wolves of Millers Hollow". | AngularJS, Materialize| Jasmine, Karma, Protractor
-[Momentgram](https://github.com/Vollcode/instagram-challenge) | An instagram clone with several features added. | Ruby on Rails, JQuery, Bootstrap  |  RSpec, Capybara
-[MakersBnB](https://github.com/Vollcode/makers-bnb/tree/testingdatepicker) | A AirBnb clone webapp with a couple extra features implemented such as image upload | Sinatra, Jquery  | Rspec, Capybara
+[MakersBnB](https://github.com/Vollcode/makers-bnb/tree/testingdatepicker) | An AirBnb clone webapp that features signup, house postings with image upload and asynchronous date-picker.  | Sinatra, Jquery  | Rspec, Capybara
 
 ## <a name="education">Life long Learning</a>
 
