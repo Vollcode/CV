@@ -1,21 +1,21 @@
 # <center>Daniel Ortiz Olivares</center>
 ## <center>[Skills](#skills) | [Projects](#projects)  | [Education](#education) | [Experience](#experience) |  [Interests](#interests) | [Contact](#contact) </center>
 
-Recruiter, mediator, psychologist, indiscriminate gamer and junior developer would be the first things that to come up to my mind when describing myself. With coding I have found the perfect way to blend  my passions. I look forward to meeting a team where I can grow while challenging me intellectually.
+Recruiter, mediator, psychologist, indiscriminate gamer and junior developer would be how I describe myself. In coding I have found the perfect way to blend  my passions. I look forward to meeting a team where I can grow while challenging myself intellectually.
 
-Every new technology could easily be the next big thing, and I wish to know them inside and out before that happens. I am very eager to learn new tools to work with and I believe a person should never stagnate in any aspect of their life. Thus I've decided to reinvent myself through a career in software development, where I can acquire new proficiencies every single day while creating amazing programs.
+Every new technology could easily be the next big thing. I want to know them inside out before that happens. I am very eager to work with new tools and I believe a person should never stagnate in any aspect of their life. Thus I've decided to reinvent myself through a career in software development, where I can acquire new proficiencies every single day while creating amazing programs.
 
 ## <a name="skills">Some virtues I've acquired</a>
 
 #### Curiosity
 
- In Makers, every week we were introduced to new technologies, and sometimes not knowing all the functionalities of a new program makes that one annoying bug impossible to solve. Having the curiosity to search and tweak around has helped me greatly in fixing the small daily problems that we encounter in our code.  
+ Every week in Makers we were introduced to new technologies. Often not knowing all the functionalities of a new program made that one annoying bug impossible to solve. Having the curiosity to search and dig deeper has helped me immensely in fixing the small daily problems that we encounter in our code.  
 
- In my previous roles I've discovered that the stuff I know is not only less than the stuff that I know I don't know, and much less than the the stuff that I don't know I don't know. However, knowing this puts me in a position of great hunger to acquire the proficiencies I've yet to master, and thanks to Makers I got all the tools I needed to feed that hunger.
+ In my previous roles I've discovered that the stuff I know is not only less than the stuff that I know I don't know, and much less than the the stuff that I don't know I don't know. However, knowing this puts me in a position of great hunger to acquire the proficiencies I've yet to master, and thanks to Makers I have all the tools I needed to feed that hunger.
 
 #### Adaptability
 
- As a Maker, we had to work with a different person every single day, and learning quickly your pair's code and their pace is essential to a good programming day. Being quick to adapt to a new person has made every day a good working experience.
+ As a Maker, we had to work with a different person every single day, and learning quickly your pair's code and their pace is essential to a good programming day. Being quick to adapt to a new situation has made every day a good working experience.
 
  While working in banking, I had to go from office to office helping tally their numbers. Some offices received me warmly, others not so much, but they were all different and I had fun meeting so many people and helping them. And even though the experience wasn't always good, my reviews were.
 
@@ -23,7 +23,7 @@ Every new technology could easily be the next big thing, and I wish to know them
 
 Sometimes the answer is right around the corner, sometimes we need a rest to avoid tunnel vision. In Makers, I've been taught when to keep pushing for answers when I believe it is possible to achieve it, and to take a rest when smoke is coming out of our ears and we're reaching nowhere.
 
-In some of my previous roles I applied a "No stone unturned" policy when it came to good work. If something wasn't clear, didn't work properly, or could be built better, it meant we could either learn more about it or make a superior version. When I worked as a mediator in a charity I dealt with people going through emotionally difficult situations, even though some of my colleagues dropped out, I managed to make sure the program finished on good terms and about 60% of the patients managed to get housing.
+In some of my previous roles I applied a "No stone unturned" policy when it came to good work. If something wasn't clear, didn't work properly, or could be built better, it meant we could either learn more about it or make a superior version. When I worked as a mediator in a charity I dealt with people going through emotionally difficult situations. Even though some of my colleagues dropped out, I managed to make sure the program finished on good terms and about 60% of the patients managed to get housing.
 
 #### Communication
 
@@ -71,7 +71,7 @@ Project | Description | Technologies | Testing
 Handle every transaction the clients needed during the day while selling all the financial products the bank offered. At the end of the day I had to tally the numbers of the whole office and make sure there were no differences in cash.
 
 **Randstad** (March 2014 to March 2015)   
-*HR Recruiter*
+*HR Recruiter*  
 As a recruiter I had to establish contact with clients, determine their hiring needs and write a contract based on that, as well as monitor the Social Security to make sure the workers were covered. Once the conditions are set, several filters were ran to find the correct candidate. Among the filters included interviews, written and online tests and onsite trials.
 
 **Psychologists without Borders** (November 2013 to July 2015)  
@@ -89,7 +89,7 @@ Filtering CV's and interviewing candidates for the required positions, as well a
 During many years I've worked a plethora of jobs that have given me the patience, perseverance and understanding that help me daily. Even though they were not career defining, they have helped me greatly in achieving in realizing that I appreciate a more cognitive intensive type of job.
 
 ## <a name="interests">When not coding, you'll find me...</a>
-  - Playing every game under the sun: board, card video, pen and paper, you name it.
+  - Playing every game under the sun: board, cards, video, pen and paper, you name it.
   - Climbing.
   - Volunteering in several NGO's.
 
