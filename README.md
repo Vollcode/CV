@@ -3,7 +3,7 @@
 
 Recruiter, mediator, psychologist, indiscriminate gamer and junior developer would be the first things that to come up to my mind when describing myself. With coding I have found the perfect way to blend  my passions. I look forward to meeting a team where I can grow while challenging me intellectually.
 
-I am very eager to learn new technologies, I believe a person should never stagnate in any aspect of their life. Each new language or framework could easily be the next big thing, and I wish to know that technology inside and out when that happens.
+Every new technology could easily be the next big thing, and I wish to know them inside and out before that happens. I am very eager to learn new tools to work with and I believe a person should never stagnate in any aspect of their life. Thus I've decided to reinvent myself through a career in software development, where I can acquire new proficiencies every single day while creating amazing programs.
 
 ## <a name="skills">Some virtues I've acquired</a>
 
@@ -25,9 +25,9 @@ Sometimes the answer is right around the corner, sometimes we need a rest to avo
 
 In some of my previous roles I applied a "No stone unturned" policy when it came to good work. If something wasn't clear, didn't work properly, or could be built better, it meant we could either learn more about it or make a superior version. When I worked as a mediator in a charity I dealt with people going through emotionally difficult situations, even though some of my colleagues dropped out, I managed to make sure the program finished on good terms and about 60% of the patients managed to get housing.
 
-#### Understanding
+#### Communication
 
- Trying to convey your thought in an easy way to make your pair partner understand what you think of a problem is quite difficult. In Makers you have to learn how every other person in the team thinks to understand what they're trying to convey.
+ Trying to convey your thoughts in a way that your pair partner understands how and what you think of a problem is quite difficult. In Makers you have to learn how every other person in the team thinks to understand what they're trying to convey.
 
  For several years I've helped a non government organization that aided people who needed therapy due to the massive impact the housing crisis had on them, but couldn't afford it or didn't had access to the public services. Hearing the experiences of so many people gives an understanding of the privileges one has and does not consider. Over the years that has developed into an acceptance of everyone's way of thinking and lifestyle, thus letting thoughts outside the box come into play.
 
