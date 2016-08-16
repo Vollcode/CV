@@ -31,7 +31,7 @@ In some of my previous roles I applied a "No stone unturned" policy when it came
 
  For several years I've helped a non government organization that aided people who needed therapy due to the massive impact the housing crisis had on them, but couldn't afford it or didn't had access to the public services. Hearing the experiences of so many people gives an understanding of the privileges one has and does not consider. Over the years that has developed into an acceptance of everyone's way of thinking and lifestyle, thus letting thoughts outside the box come into play.
 
-## <a name="projects">What I've done so far</a>
+## <a name="projects">Some work that I've done so far</a>
 
 Project | Description | Technologies | Testing
 --- | --- | --- | ---
