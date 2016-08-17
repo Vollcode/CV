@@ -1,7 +1,7 @@
 # <center>Daniel Ortiz Olivares</center>
 ## <center>[Skills](#skills) | [Projects](#projects)  | [Education](#education) | [Experience](#experience) |  [Interests](#interests) | [Contact](#contact) </center>
 
-Indiscriminate gamer, software developer and psychologist would be  the words that come to my head when I describe myself. In coding I have found the perfect way to blend my passions. I look forward to meeting a team where I can grow while challenging myself intellectually.
+Indiscriminate gamer, software developer, mediator and psychologist would be the words that come to my head when I describe myself. Throughout my life I've searched for situations where I could learn by putting myself out there, such as volunteering as a mediator in an alternative housing project, providing therapy to people who couldn't afford it or by caring for people with schizophrenia. I look forward to meeting a team where I can grow while challenging myself intellectually.
 
 Every new technology could easily be the next big thing. I want to know them inside out before that happens. I am very eager to work with new tools and I believe a person should never stagnate in any aspect of their life. Thus I've decided to reinvent myself through a career in software development, where I can acquire new proficiencies every single day while creating amazing programs.
 
@@ -17,7 +17,7 @@ Every new technology could easily be the next big thing. I want to know them ins
 
  As a Maker, every single day we had to work either with a different person or in a group, and learning quickly the pace of your group and their coding style is essential to a good programming day. Being quick to adapt to a new situation has made every day a good working experience.
 
- While working in banking, I had to go from office to office helping tally their numbers. Some offices received me warmly, others not so much, but they were all different and I had fun meeting so many people and learning how to work together while helping them. And even though the experience wasn't always good, my reviews were.
+ While working as an accountant, I had to go from office to office helping tally their numbers. Some offices received me warmly, others not so much, but they were all different and I had fun meeting so many people and learning how to work together while helping them. And even though the experience wasn't always good, my reviews were.
 
 #### Perseverance
 
@@ -29,7 +29,7 @@ In some of my previous roles I applied a "No stone unturned" policy when it came
 
  Trying to convey your thoughts in a way that your pair partner understands how and what you think of a problem is quite difficult. In Makers you have to learn how every other person in the team thinks to understand what they're trying to convey.
 
- For several years I've helped a non government organization that aided people who needed therapy due to the massive impact the housing crisis had on them, but couldn't afford it or didn't had access to the public services. Hearing the experiences of so many people gives an understanding of the privileges one has and does not consider. Over the years that has developed into an acceptance of everyone's way of thinking and lifestyle, thus letting thoughts outside the box come into play.
+ For several years I've provided therapy in a non government organization that aided people affected by the massive impact the housing crisis, but couldn't afford it or didn't had access to the public services. Hearing the experiences of so many people gives an understanding of the privileges one has and does not consider. Over the years that has developed into an acceptance of everyone's way of thinking and lifestyle, thus letting thoughts outside the box come into play.
 
 ## <a name="projects">Some work that I've done so far</a>
 
@@ -48,7 +48,7 @@ Project | Description | Technologies | Testing
 - Technologies: Ruby, Rails, Javascript, Node.js, Angular.js, Sinatra, Heroku, Travis, Hound.
 - Testing Frameworks: Rspec, Jasmine, Karma, Protractor.
 
-#### University of Madrid (September 2014 to July 2015)
+#### University of Madrid (September 2014 to March 2015)
 
 - Master's Degree in Human Resources
 - Focus on Accountancy, Recruiting and Training
