@@ -1,7 +1,7 @@
 # <center>Daniel Ortiz Olivares</center>
 ## <center>[Skills](#skills) | [Projects](#projects)  | [Education](#education) | [Experience](#experience) |  [Interests](#interests) | [Contact](#contact) </center>
 
-Indiscriminate gamer, software developer, mediator and psychologist would be the words that come to my head when I describe myself. Throughout my life I've searched for situations where I could learn by putting myself out there, such as volunteering as a mediator in an alternative housing project, providing therapy to people who couldn't afford it or by caring for people with schizophrenia. I look forward to meeting a team where I can grow while challenging myself intellectually.
+Indiscriminate gamer, software developer, mediator and psychologist would be the words that come to my head when I describe myself. Throughout my life I've searched for situations where I could learn by putting myself out there, usually by volunteering in exciting endeavours. I look forward to meeting a team where I can grow while challenging myself intellectually.
 
 Every new technology could easily be the next big thing. I want to know them inside out before that happens. I am very eager to work with new tools and I believe a person should never stagnate in any aspect of their life. Thus I've decided to reinvent myself through a career in software development, where I can acquire new proficiencies every single day while creating amazing programs.
 
