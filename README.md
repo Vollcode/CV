@@ -66,7 +66,7 @@ Project | Description | Technologies | Testing
 
 ## <a name="experience">Previous career experience</a>
 
-**CaixaBank** (June 2015 to January 2016)    
+**CaixaBank** (June 2015 to December 2015)    
 *Accountant*  
 Handle every transaction the clients needed during the day while selling all the financial products the bank offered. At the end of the day I had to tally the numbers of the whole office and make sure there were no differences in cash.
 
@@ -78,7 +78,7 @@ As a recruiter I had to establish contact with clients, determine their hiring n
 *Mediator and Psychologist*  
 As a Psychologist I provided cognitive-behavioral therapy to the public who couldn't afford a private psychologist or make use of the public services. Within the organization there was a program to provide assistance as a mediator to groups of people who were participating in an experimental housing project.
 
-**Manpower** (September 2013 to March 2014)   
+**Manpower** (September 2013 to February 2014)   
 *HR Recruiter*  
 Filtering CV's and interviewing candidates for the required positions, as well as writing contracts based on the clients needs and monitoring the Social Security movements to assure the well-being of the workers.
 
