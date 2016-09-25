@@ -66,7 +66,7 @@ Project | Description | Technologies | Testing
 
 ## <a name="experience">Previous career experience</a>
 
-**CaixaBank** (June 2015 to December 2015)    
+**CaixaBank** (July 2015 to December 2015)    
 *Accountant*  
 Handle every transaction the clients needed during the day while selling all the financial products the bank offered. At the end of the day I had to tally the numbers of the whole office and make sure there were no differences in cash.
 
