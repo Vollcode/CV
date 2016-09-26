@@ -1,7 +1,7 @@
 # <center>Daniel Ortiz Olivares</center>
 ## <center>[Skills](#skills) | [Projects](#projects)  | [Education](#education) | [Experience](#experience) |  [Interests](#interests) | [Contact](#contact) </center>
 
-Indiscriminate gamer, software developer, mediator and psychologist would be the words that come to my head when I describe myself. Throughout my life I've searched for situations where I could learn by putting myself out there, usually by volunteering in exciting endeavours. I look forward to meeting a team where I can grow while challenging myself intellectually.
+Indiscriminate gamer, software developer, mediator and psychologist would be the words that come to my head when I describe myself. Throughout my life I've searched for situations where I could learn by putting myself out there, usually by volunteering in exciting endeavors. I look forward to meeting a team where I can grow while challenging myself intellectually.
 
 Every new technology could easily be the next big thing. I want to know them inside out before that happens. I am very eager to work with new tools and I believe a person should never stagnate in any aspect of their life. Thus I've decided to reinvent myself through a career in software development, where I can acquire new proficiencies every single day while creating amazing programs.
 
@@ -36,7 +36,7 @@ In some of my previous roles I applied a "No stone unturned" policy when it came
 Project | Description | Technologies | Testing
 --- | --- | --- | ---
 [Regexpert](https://github.com/Vollcode/Regexperts) | A gamified learning solution to master Regular Expressions, it consists of a number of levels where you learn bit by bit Regexp concepts. The game features very clean and decoupled code, with services for every behavior. | AngularJS, Ruby on Rails, NodeJS, Materialize | Jasmine, Karma, Protractor, Rspec
-[Werewolves](https://github.com/Vollcode/Werewolves-practice) | A purely front-end app to help learn and play a board game called "The Wolves of Millers Hollow". | AngularJS, Materialize| Jasmine, Karma, Protractor
+[Werewolves](https://github.com/Vollcode/Werewolves-practice) | A purely front-end application to help learn and play a board game called "The Wolves of Millers Hollow". | AngularJS, Materialize| Jasmine, Karma, Protractor
 [MakersBnB](https://github.com/Vollcode/makers-bnb/tree/testingdatepicker) | An AirBnb clone webapp that features signup, house postings with image upload and asynchronous date-picker.  | Sinatra, Jquery  | Rspec, Capybara
 
 ## <a name="education">Just a bit of what I've learnt</a>
@@ -56,7 +56,7 @@ Project | Description | Technologies | Testing
 #### University of Valencia (September 2008 to June 2013)
 
 - Bachelor's Degree in Psychology
-- Focus on Statistics, Social and Organisational Psychology
+- Focus on Statistics, Social and Organizational Psychology
 - One year Erasmus Program in Berlin
 
 ##### Other skills
@@ -72,7 +72,7 @@ Handle every transaction the clients needed during the day while selling all the
 
 **Randstad** (March 2014 to March 2015)   
 *HR Recruiter*  
-As a recruiter I had to establish contact with clients, determine their hiring needs and write a contract based on that, as well as monitor the Social Security to make sure the workers were covered. Once the conditions are set, several filters were ran to find the correct candidate. Among the filters included interviews, written and online tests and onsite trials.
+As a recruiter I had to establish contact with clients, determine their hiring needs and write a contract based on that, as well as monitor the Social Security to make sure the workers were covered. Once the conditions are set, several filters were ran to find the correct candidate. Among the filters included interviews, written and on-line tests and on-site trials.
 
 **Psychologists without Borders** (November 2013 to July 2015)  
 *Mediator and Psychologist*  
