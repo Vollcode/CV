@@ -48,7 +48,7 @@ Project | Description | Technologies | Testing
 - Technologies: Ruby, Rails, Javascript, Node.js, Angular.js, Sinatra, Heroku, Travis, Hound.
 - Testing Frameworks: Rspec, Jasmine, Karma, Protractor.
 
-#### University of Madrid (September 2014 to March 2015)
+#### University of Madrid (September 2014 to June 2015)
 
 - Master's Degree in Human Resources
 - Focus on Accountancy, Recruiting and Training
