@@ -48,7 +48,7 @@ Project | Description | Technologies | Testing
 - Technologies: Ruby, Rails, Javascript, Node.js, Angular.js, Sinatra, Heroku, Travis, Hound.
 - Testing Frameworks: Rspec, Jasmine, Karma, Protractor.
 
-#### University of Madrid (September 2014 to June 2015)
+#### On-line University of Madrid (September 2014 to June 2015)
 
 - Master's Degree in Human Resources
 - Focus on Accountancy, Recruiting and Training
@@ -72,7 +72,7 @@ Handle every transaction the clients needed during the day while selling all the
 
 **Randstad** (March 2014 to March 2015)   
 *HR Recruiter*  
-As a recruiter I had to establish contact with clients, determine their hiring needs and write a contract based on that, as well as monitor the Social Security to make sure the workers were covered. Once the conditions are set, several filters were ran to find the correct candidate. Among the filters included interviews, written and on-line tests and on-site trials.
+As a recruiter during an internship I had to establish contact with clients, determine their hiring needs and write a contract based on that, as well as monitor the Social Security to make sure the workers were covered. Once the conditions are set, several filters were ran to find the correct candidate. Among the filters included interviews, written and on-line tests and on-site trials.
 
 **Psychologists without Borders** (November 2013 to July 2015)  
 *Mediator and Psychologist*  
@@ -80,7 +80,7 @@ As a Psychologist I provided cognitive-behavioral therapy to the public who coul
 
 **Manpower** (September 2013 to February 2014)   
 *HR Recruiter*  
-Filtering CV's and interviewing candidates for the required positions, as well as writing contracts based on the clients needs and monitoring the Social Security movements to assure the well-being of the workers.
+As part of an internship, I did the filtering CV's and interviewing candidates for the required positions, as well as writing contracts based on the clients needs and monitoring the Social Security movements to assure the well-being of the workers.
 
 **Retail** (September 2009 to March 2016)  
 *Waiter*  
